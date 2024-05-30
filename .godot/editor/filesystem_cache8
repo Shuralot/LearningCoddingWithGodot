@@ -1,0 +1,25 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1716777198
+icon.svg::CompressedTexture2D::5191165539420345212::1716671542::1716671569::1::::<><>::
+::res://Scenes/::1716694628
+fabrica.tscn::PackedScene::1914460554206726760::1716694628::0::1::::<><>::uid://dgiwgg1bsobot::::res://Scenes/mega.tscn<>uid://drvmjn55fgs77::::res://Sprites/Map/Mapa.png<>uid://b7myato540tsj::::res://Sprites/Map/Peda.png<>uid://c64cl286gxes6::::res://Sprites/Map/Canion.jpg
+mega.tscn::PackedScene::7598256978919324323::1716694605::0::1::::<><>::res://Scripts/Mega.gd<>uid://skewimqqnj3l::::res://Sprites/Mega ManIdle1.png<>uid://d16hi2w6itmxx::::res://Sprites/Mega ManIdle2.png<>uid://cbwmdle1df0eo::::res://Sprites/Mega ManMove1.png<>uid://cs1vt8016iwq1::::res://Sprites/Jump1.png<>uid://b1sbng21cduwu::::res://Sprites/Mega ManMove2.png<>uid://cjjyf5dw3dkxd::::res://Sprites/Mega ManMove3.png<>uid://jqnpcoxugl4e::::res://Sprites/Mega ManMove4.png<>uid://cr4hssltiqmmu::::res://Sprites/Mega ManMove5.png
+::res://Scripts/::1716694538
+Mega.gd::GDScript::-1::1716694538::0::1::::<>CharacterBody2D<>::
+::res://Sprites/::1716691090
+Jump1.png::CompressedTexture2D::6091225134522380994::1716691089::1716691090::1::::<><>::
+Jump2.png::CompressedTexture2D::8016375939765781125::1716691050::1716691090::1::::<><>::
+Mega Man.png::CompressedTexture2D::2254408804107708084::1716674445::1716676746::1::::<><>::
+Mega ManIdle1.png::CompressedTexture2D::1284325557935478863::1716677705::1716677707::1::::<><>::
+Mega ManIdle2.png::CompressedTexture2D::9048608454880703949::1716677970::1716677973::1::::<><>::
+Mega ManMove1.png::CompressedTexture2D::4889181068030086674::1716680352::1716680546::1::::<><>::
+Mega ManMove2.png::CompressedTexture2D::4248573708202504712::1716680423::1716680546::1::::<><>::
+Mega ManMove3.png::CompressedTexture2D::5424588078082995729::1716680475::1716680546::1::::<><>::
+Mega ManMove4.png::CompressedTexture2D::665545872367738458::1716680504::1716680546::1::::<><>::
+Mega ManMove5.png::CompressedTexture2D::6026376790627897596::1716680544::1716680546::1::::<><>::
+::res://Sprites/Map/::1716683692
+Canion.jpg::CompressedTexture2D::7008705023277851339::1716683690::1716683692::1::::<><>::
+Cano.png::CompressedTexture2D::5922235156888858349::1716682782::1716682820::1::::<><>::
+Mapa.png::CompressedTexture2D::8396569732337137128::1716681409::1716681411::1::::<><>::
+mm3_drwily1tiles.png::CompressedTexture2D::4269124690790440855::1716681272::1716681411::1::::<><>::
+Peda.png::CompressedTexture2D::4658694441958986001::1716682756::1716682820::1::::<><>::
